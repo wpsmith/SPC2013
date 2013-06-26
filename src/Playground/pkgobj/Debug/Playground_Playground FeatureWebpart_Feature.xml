@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="PPEDVEventReceiverFeature" Description="Adds Event Receiver" Id="9f7cf1f6-b287-4c9e-8883-85397ff7145a" Scope="Web">
+  <ElementManifests>
+    <ElementManifest Location="ER_Session\Elements.xml" />
+  </ElementManifests>
+</Feature>

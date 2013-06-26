@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="bcdf5c67-5997-4893-9a08-887b38bce594" solutionId="bcdf5c67-5997-4893-9a08-887b38bce594" resetWebServer="false" sharePointProductVersion="15.0" name="Playground" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="8f5a2dd7-453c-48dc-bbb0-39944ba529ee" />
+    <featureReference itemId="b1580dee-80f9-43af-95a1-6772657915a8" />
+    <featureReference itemId="250d6d36-bdde-4cad-a34c-75dd603c0a3d" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="d1272fae-737c-4a8a-b71c-b20722bfea6d" />
+  </projectItems>
+</package>

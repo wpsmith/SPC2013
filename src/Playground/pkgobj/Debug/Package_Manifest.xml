@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="bcdf5c67-5997-4893-9a08-887b38bce594" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="Playground.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Playground, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c7c950a74b0ce5b2" Namespace="Playground.SessionCount" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <RootFiles>
+    <RootFile Location="Resources\playgroundcore.en.resx" />
+    <RootFile Location="Resources\playgroundcore.resx" />
+  </RootFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="Playground_WebListFeature\Feature.xml" />
+    <FeatureManifest Location="Playground_Playground FeatureWebpart\Feature.xml" />
+    <FeatureManifest Location="Playground_Feature SessionCount\Feature.xml" />
+  </FeatureManifests>
+</Solution>

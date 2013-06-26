@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2012\Projects\Playground\ConsolePlayground\bin\Debug\ConsolePlayground.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\Playground\ConsolePlayground\bin\Debug\ConsolePlayground.exe
+c:\users\administrator\documents\visual studio 2012\Projects\Playground\ConsolePlayground\bin\Debug\ConsolePlayground.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\Playground\ConsolePlayground\obj\Debug\ConsolePlayground.exe
+c:\users\administrator\documents\visual studio 2012\Projects\Playground\ConsolePlayground\obj\Debug\ConsolePlayground.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\Playground\ConsolePlayground\obj\Debug\ConsolePlayground.csprojResolveAssemblyReference.cache

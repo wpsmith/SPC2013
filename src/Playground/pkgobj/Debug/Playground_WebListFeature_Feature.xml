@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="PPEDV ListFeature" Description="Deploys Custom Lists" Id="54868777-8960-40a9-b7e7-a6822a13d904" ReceiverAssembly="Playground, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c7c950a74b0ce5b2" ReceiverClass="Playground.Features.WebListFeature.WebListFeatureEventReceiver" Scope="Web">
+  <ElementManifests>
+    <ElementManifest Location="CT_Session\Elements.xml" />
+    <ElementManifest Location="CustomFields\Elements.xml" />
+    <ElementManifest Location="LST_SessionsInstance\Elements.xml" />
+    <ElementManifest Location="LST_Sessions\Elements.xml" />
+    <ElementFile Location="LST_Sessions\Schema.xml" />
+  </ElementManifests>
+</Feature>

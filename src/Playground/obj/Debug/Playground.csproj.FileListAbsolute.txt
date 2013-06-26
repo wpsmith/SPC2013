@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2012\Projects\Playground\Playground\bin\Debug\Playground.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Playground\Playground\bin\Debug\Playground.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\Playground\Playground\obj\Debug\Playground.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Playground\Playground\obj\Debug\Playground.pdb
+C:\SharePointCamp\Playground\bin\Debug\Playground.dll
+C:\SharePointCamp\Playground\bin\Debug\Playground.pdb
+C:\SharePointCamp\Playground\obj\Debug\Playground.dll
+C:\SharePointCamp\Playground\obj\Debug\Playground.pdb

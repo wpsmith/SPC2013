@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers ListTemplateId="10000">
+      <Receiver>
+        <Name>ER_SessionItemAdding</Name>
+        <Type>ItemAdding</Type>
+        <Assembly>Playground, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c7c950a74b0ce5b2</Assembly>
+        <Class>Playground.ER_Session.ER_Session</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+      <Receiver>
+        <Name>ER_SessionItemUpdating</Name>
+        <Type>ItemUpdating</Type>
+        <Assembly>Playground, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c7c950a74b0ce5b2</Assembly>
+        <Class>Playground.ER_Session.ER_Session</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+      <Receiver>
+        <Name>ER_SessionItemDeleting</Name>
+        <Type>ItemDeleting</Type>
+        <Assembly>Playground, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c7c950a74b0ce5b2</Assembly>
+        <Class>Playground.ER_Session.ER_Session</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+    <Receiver>
+      <Name>ER_SessionItemAdded</Name>
+      <Type>ItemAdded</Type>
+      <Assembly>Playground, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c7c950a74b0ce5b2</Assembly>
+      <Class>Playground.ER_Session.ER_Session</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+  </Receivers>
+</Elements>

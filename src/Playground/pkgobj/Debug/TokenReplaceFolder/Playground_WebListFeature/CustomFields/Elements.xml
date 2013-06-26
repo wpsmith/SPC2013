@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Field
+       ID="{b14ba9c8-5ef8-462f-883a-5bbd79919e3a}"
+       Name="SessionRoom"
+       DisplayName="$Resources:playgroundcore,CT_SessionRoom"
+       Type="Text"
+       Required="FALSE"
+       Group="PPEDV">
+  </Field>
+
+  <Field
+       ID="{10F85203-8414-43AD-84D9-DC5D7F704687}"
+       Name="Speaker"
+       DisplayName="$Resources:playgroundcore,CT_Speaker"
+       Type="Text"
+       Required="FALSE"
+       Group="PPEDV">
+  </Field>
+
+</Elements>

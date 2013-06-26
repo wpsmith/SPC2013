@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="Playground.SessionCount.SessionCount, Playground, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c7c950a74b0ce5b2" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">Listenzähler</property>
+        <property name="Description" type="string">Zählt die Einträge der Liste</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Feature SessionCount" Description="Unsere Webparts" Id="67e57f05-412f-44ae-ac29-7cb3610eccb0" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="SessionCount\Elements.xml" />
+    <ElementFile Location="SessionCount\SessionCount.webpart" />
+  </ElementManifests>
+</Feature>

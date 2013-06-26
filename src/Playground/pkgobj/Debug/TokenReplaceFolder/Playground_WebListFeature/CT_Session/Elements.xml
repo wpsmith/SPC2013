@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <!-- Übergeordneter ContentType: Element (0x01) -->
+  <ContentType ID="0x0100D69847421A894A04900E579136FEC951" Name="CT_Session" Group="Benutzerdefinierte Inhaltstypen" Description="Mein Inhaltstyp" Inherits="TRUE" Version="0">
+    <FieldRefs>
+      <FieldRef ID="{b14ba9c8-5ef8-462f-883a-5bbd79919e3a}" DisplayName="SessionRoom" Required="TRUE" Name="SessionRoom" />
+      <FieldRef ID="{10F85203-8414-43AD-84D9-DC5D7F704687}" DisplayName="Speaker" Required="TRUE" Name="Speaker" />
+    </FieldRefs>
+  </ContentType>
+</Elements>
